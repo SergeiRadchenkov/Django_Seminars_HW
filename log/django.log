@@ -1,0 +1,9 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2307
+"GET /hw1 HTTP/1.1" 301 0
+Главная страница была посещена.
+"GET /hw1/ HTTP/1.1" 200 270
+"GET /hw1/about HTTP/1.1" 301 0
+Страница 'О себе' была посещена.
+"GET /hw1/about/ HTTP/1.1" 200 239
