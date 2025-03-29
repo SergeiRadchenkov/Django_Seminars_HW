@@ -7,3 +7,255 @@ Not Found: /
 "GET /hw1/about HTTP/1.1" 301 0
 Страница 'О себе' была посещена.
 "GET /hw1/about/ HTTP/1.1" 200 239
+Watching for file changes with StatReloader
+Not Found: /hw3app/client/1/orders/
+"GET /hw3app/client/1/orders/ HTTP/1.1" 404 2688
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3
+"GET /hw3 HTTP/1.1" 404 2628
+Not Found: /hw3/
+"GET /hw3/ HTTP/1.1" 404 2484
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Watching for file changes with StatReloader
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+Not Found: /hw3/client/1/orders/
+"GET /hw3/client/1/orders/ HTTP/1.1" 404 2532
+C:\Users\Nitro V15\PycharmProjects\Django_HW\django_HW\django_HW\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw3/client/1/orders/ HTTP/1.1" 200 6
+"GET /hw3/client/1/orders/ HTTP/1.1" 200 6
+C:\Users\Nitro V15\PycharmProjects\Django_HW\django_HW\hw3app\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /hw3/client/1/orders/ HTTP/1.1" 200 1575
+Watching for file changes with StatReloader
+"GET /hw3/client/1/orders/ HTTP/1.1" 200 2631
+Watching for file changes with StatReloader
+Internal Server Error: /hw3/client/1/ordered-products/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\django_HW\hw3app\views.py", line 136, in client_ordered_products
+    return render(request, 'client_ordered_products.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_ordered_products.html
+"GET /hw3/client/1/ordered-products/ HTTP/1.1" 500 85808
+Internal Server Error: /hw3/client/1/ordered-products/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\django_HW\hw3app\views.py", line 136, in client_ordered_products
+    return render(request, 'client_ordered_products.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_ordered_products.html
+"GET /hw3/client/1/ordered-products/ HTTP/1.1" 500 85808
+Internal Server Error: /hw3/client/1/ordered-products/
+Traceback (most recent call last):
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\django_HW\hw3app\views.py", line 136, in client_ordered_products
+    return render(request, 'client_ordered_products.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nitro V15\PycharmProjects\Django_HW\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: client_ordered_products.html
+"GET /hw3/client/1/ordered-products/ HTTP/1.1" 500 85808
+"GET /hw3/client/1/ordered-products/ HTTP/1.1" 200 1018
