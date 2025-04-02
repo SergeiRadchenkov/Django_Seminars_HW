@@ -259,3 +259,15 @@ Traceback (most recent call last):
 django.template.exceptions.TemplateDoesNotExist: client_ordered_products.html
 "GET /hw3/client/1/ordered-products/ HTTP/1.1" 500 85808
 "GET /hw3/client/1/ordered-products/ HTTP/1.1" 200 1018
+Watching for file changes with StatReloader
+Not Found: /hw4/product
+"GET /hw4/product HTTP/1.1" 404 3262
+Not Found: /hw4/product
+"GET /hw4/product HTTP/1.1" 404 3262
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2748
+Not Found: /hw4
+"GET /hw4 HTTP/1.1" 404 2775
+Not Found: /hw4/product
+"GET /hw4/product HTTP/1.1" 404 3262

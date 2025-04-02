@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Редактирование товара: {{ product.name }}</h1>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+  </form>
+  {% if product.image %}
+    <h3>Текущее изображение:</h3>
+    <img src="{{ product.image.url }}" alt="{{ product.name }}" width="200">
+  {% endif %}
+  <a href="{% url 'product_list' %}">Вернуться к списку товаров</a>
+{% endblock %}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заказы клиента</title>
+</head>
+<body>
+    <h1>Заказы клиента: {{ client.name }}</h1>
+    <p>Email: {{ client.email }}</p>
+    <p>Телефон: {{ client.phone_number }}</p>
+    <p>Адрес: {{ client.address }}</p>
+    <p>Дата регистрации: {{ client.registration_date }}</p>
+
+    <h2>Список заказов</h2>
+    {% if orders %}
+        <ul>
+        {% for order in orders %}
+            <li>
+                <h3>Заказ №{{ order.id }} ({{ order.order_date }})</h3>
+                <p>Сумма заказа: {{ order.total_amount }} руб.</p>
+                <h4>Товары:</h4>
+                <ul>
+                {% for product in order.products.all %}
+                    <li>
+                        {{ product.name }} ({{ product.price }} руб.) - {{ product.orderproduct.quantity }} шт.
+                    </li>
+                {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>У клиента пока нет заказов.</p>
+    {% endif %}
+</body>
+</html>

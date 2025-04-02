@@ -1,0 +1,44 @@
+<!-- templates/client_ordered_products.html -->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Заказанные товары клиента {{ client.name }}</title>
+</head>
+<body>
+    <h1>Заказанные товары клиента: {{ client.name }}</h1>
+
+    <h2>Товары за последние 7 дней</h2>
+    {% if products_last_week %}
+        <ul>
+            {% for product in products_last_week %}
+                <li>{{ product.name }} ({{ product.price }})</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Товары не были заказаны за последние 7 дней.</p>
+    {% endif %}
+
+    <h2>Товары за последние 30 дней</h2>
+    {% if products_last_month %}
+        <ul>
+            {% for product in products_last_month %}
+                <li>{{ product.name }} ({{ product.price }})</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Товары не были заказаны за последние 30 дней.</p>
+    {% endif %}
+
+    <h2>Товары за последние 365 дней</h2>
+    {% if products_last_year %}
+        <ul>
+            {% for product in products_last_year %}
+                <li>{{ product.name }} ({{ product.price }})</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Товары не были заказаны за последние 365 дней.</p>
+    {% endif %}
+</body>
+</html>
